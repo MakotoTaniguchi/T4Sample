@@ -17,7 +17,7 @@ namespace DtoGenerator
             set;
         }
 
-        public DtoGeneratorManager(string fileName = "sample.ts")
+        public DtoGeneratorManager(string fileName)
         {
             FileName = fileName;
         }
