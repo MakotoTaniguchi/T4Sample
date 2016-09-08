@@ -1,0 +1,2 @@
+# T4Sample
+T4Templateを使用してC#のModelをTypeScriptのInterfaceに変換するサンプルです
