@@ -25,8 +25,6 @@ namespace ConsoleApplication1
 
             var generator = new DtoGeneratorManager("sample.ts");
             generator.InterfaceGenerate(entity);
-
-			var a = "";
         }
     }
 }
